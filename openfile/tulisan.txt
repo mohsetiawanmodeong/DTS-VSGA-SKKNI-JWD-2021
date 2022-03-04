@@ -1,0 +1,6 @@
+Saya sekarang sedang belajar php<BR> Asyik lho
+Ternyata PHP itu mudah,
+tidak sesulit yang dibayangkan
+<P>Bagaimana?
+apakah anda ingin belajar lebih lanjut??
+<HR>Ini Tambahannya
